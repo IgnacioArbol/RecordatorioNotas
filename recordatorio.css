@@ -1,0 +1,31 @@
+body{
+    background-color:azure;
+}
+.completadoClase{
+    background-color: red;
+ }
+ .navbar{
+     display:flex;
+     flex-wrap: wrap;
+     align-content: center;
+     justify-content: center;
+ }
+ .pendientesycompletadas{
+     width: 50%;
+     margin:10px 0px;
+ }
+ #pendientesycompletadas{
+     display: flex;
+     text-align: center;
+ }
+ #arriba{
+     display: flex;
+     justify-content: center;
+ }
+ .input{
+     width: 50%;
+ }
+ #abajo{
+     display: flex;
+     justify-content: center;
+ }
